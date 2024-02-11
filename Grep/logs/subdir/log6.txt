@@ -1,0 +1,3 @@
+2024-02-10 08:01:00 - INFO - Request received: GET /api/v1/endpoint
+2024-02-10 08:07:00 - INFO - Request received: POST /api/v1/endpoint with user_id=11111
+2024-02-10 08:11:00 - INFO - Request received: GET /api/v1/endpoint

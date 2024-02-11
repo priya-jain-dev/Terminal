@@ -1,0 +1,3 @@
+2024-02-10 08:06:00 - INFO - Request received: POST /api/v1/endpoint with user_id=54321
+2024-02-10 08:11:00 - ERROR - File not found: /path/to/file.txt
+2024-02-10 08:16:00 - INFO - Request received: GET /api/v1/endpoint
